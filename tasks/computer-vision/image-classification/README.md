@@ -2,12 +2,11 @@
 ## Pneumonia Chest X-Ray Image Classifier
 
 ##### Premise:
-This simple classifier is trained to distinguish between chest xrays of patients with pneumonia
-versus those who do not have pneumonia.
+This simple classifier is trained to distinguish between chest xrays of patients with pneumonia versus those who do not have pneumonia.
 
 
 ##### Data:
-Data is available from Kaggle: https://kaggle.com/paultimothymooney/chest-xray-pneumonia
+Data is available from Kaggle. Download files and make sure folder is in the same folder as the pneumonia_model script. The data can be downloaded from: https://kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 
 To train model with default values, simply run with 
