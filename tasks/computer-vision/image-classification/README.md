@@ -1,5 +1,5 @@
 # Image Classification
-#Pneumonia Chest X-Ray Image Classifier
+## Pneumonia Chest X-Ray Image Classifier
 
 ##### Premise:
 This simple classifier is trained to distinguish between chest xrays of patients with pneumonia
