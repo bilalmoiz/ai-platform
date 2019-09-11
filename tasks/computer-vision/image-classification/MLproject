@@ -7,6 +7,6 @@ entry_points:
     parameters:
       batch_size: {type: int, default: 32}
       img_size: {type: int, default: 64}
-	  epoch: {type: int, default: 20}
-	  nodes: {type: int, default: 128}
+      epoch: {type: int, default: 20}
+      nodes: {type: int, default: 128}
     command: "python pneumonia_model.py 32 64 20 120"
